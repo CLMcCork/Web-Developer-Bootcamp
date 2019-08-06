@@ -1,0 +1,51 @@
+
+.img {
+	height: 300px;
+	width: 22%;
+	float: left;
+	margin: 1.5%;
+	background-size: cover;
+	background-position: center;
+}
+
+.img1 {
+	background-image: url(https://cdn.pixabay.com/photo/2019/03/28/20/13/dog-4087959_960_720.jpg);
+}
+.img2 {
+	background-image: url(https://cdn.pixabay.com/photo/2016/09/17/21/58/dog-1677041_960_720.jpg);
+}
+.img3 {
+	background-image: url('https://cdn.pixabay.com/photo/2019/05/23/13/09/dog-4223905_960_720.jpg');
+}
+.img4 {
+	background-image: url('https://cdn.pixabay.com/photo/2013/07/18/20/25/goldendoodle-164935_960_720.jpg');
+}
+
+
+
+.img5 {
+	background-image: url(https://cdn.pixabay.com/photo/2016/09/21/06/25/dog-1684168_960_720.jpg); 
+}
+.img6 {
+	background-image: url(https://cdn.pixabay.com/photo/2017/01/16/02/10/dog-1983146_960_720.jpg); 
+}
+.img7 {
+	background-image: url(https://cdn.pixabay.com/photo/2016/09/16/22/18/dog-1675273_960_720.jpg); 
+}
+.img8 {
+	background-image: url(https://cdn.pixabay.com/photo/2016/12/09/15/53/goldendoodle-1895140_960_720.jpg); 
+}
+
+
+.img9 {
+	background-image: url(https://cdn.pixabay.com/photo/2015/05/02/21/26/goldendoodle-750444_960_720.jpg); 
+}
+.img10{
+	background-image: url(https://cdn.pixabay.com/photo/2016/09/03/21/59/goldendoodle-1642849_960_720.jpg); 
+}
+.img11 {
+	background-image: url(https://cdn.pixabay.com/photo/2017/03/28/06/44/goldendoodle-2181188_960_720.jpg); 
+}
+.img12 {
+	background-image: url(https://cdn.pixabay.com/photo/2017/10/23/20/01/dog-2882318_960_720.jpg); 
+}
